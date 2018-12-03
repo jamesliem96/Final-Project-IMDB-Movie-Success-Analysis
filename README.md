@@ -1,1 +1,2 @@
 # Final-Project-IMDB-Movie-Success-Analysis
+This project is about analyzing movies using its imdb score as a success measure with many type of analysis. This analysis includes regression, classification, clustering, and correlation analysis with many visualization too. The goal of this project is to find the best predictive model that is accurate to predict a movie's success and to find which variables are important and have significant effect to the imdb score.
